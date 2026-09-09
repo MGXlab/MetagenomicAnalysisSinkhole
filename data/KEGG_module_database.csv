@@ -1,0 +1,482 @@
+"","Module","KO","Sub_MO","Class"
+"1",M00001,K00844;K12407;K00845;K25026;K00886;K08074;K00918;K01810;K06859;K13810;K15916;K00850;K16370;K21071;K00918;K01623;K01624;K11645;K16305;K16306;K01803;K00134;K00150;K00927;K11389;K01834;K15633;K15634;K15635;K01689;K27394;K00873;K12406,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"2",M00002,K01803;K00134;K00150;K00927;K11389;K01834;K15633;K15634;K15635;K01689;K27394;K00873;K12406,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"3",M00003,K01596;K01610;K01689;K27394;K01834;K15633;K15634;K15635;K00927;K00134;K00150;K01803;K01623;K01624;K11645;K03841;K02446;K11532;K01086;K04041;K01622,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"4",M00004,K13937;K00036;K19243;K01057;K07404;K00033;K01783;K01807;K01808;K00615;K00616;K13810;K01810;K06859;K13810;K15916,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"5",M00005,K00948,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"6",M00006,K13937;K00036;K19243;K01057;K07404;K00033,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"7",M00007,K00615;K00616;K13810;K01783;K01807;K01808,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"8",M00008,K00036;K01057;K07404;K01690;K01625,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"9",M00009,K01647;K05942;K01659;K01681;K27802;K01682;K00031;K00030;K00164;K01616;K00658;K00382;K00174;K00175;K00177;K00176;K01902;K01903;K01899;K01900;K18118;K00234;K00235;K00236;K00237;K25801;K00239;K00240;K00241;K00242;K18859;K18860;K00244;K00245;K00246;K00247 fumarate reductase [EC:1.3.5.4] [RN:R02164];K01676;K01679;K01677;K01678;K00026;K00025;K00024;K00116,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"10",M00010,K01647;K05942;K01659;K01681;K27802;K01682;K00031;K00030,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"11",M00011,K00164;K01616;K00658;K00382;K00174;K00175;K00177;K00176;K01902;K01903;K01899;K01900;K18118;K00234;K00235;K00236;K00237;K25801;K00239;K00240;K00241;K00242;K18859;K18860;K00244;K00245;K00246;K00247 fumarate reductase [EC:1.3.5.4] [RN:R02164];K01676;K01679;K01677;K01678;K00026;K00025;K00024;K00116,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"12",M00012,K01647;K01659;K01681;K27802;K01682;K01637;K01638;K19282;K00026;K00025;K00024,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"13",M00013,K00248;K00232;K07511;K14729;K05605;K23146;K00140,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"14",M00014,K00012;K12447;K16190;K00699;K01195;K14756;K00002;K13247;K03331;K05351;K00008;K00854,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"15",M00015,K00931;K00147;K12657;K00286,NA,Pathway modules; Amino acid metabolism; Arginine and proline metabolism
+"16",M00016,K00928;K12524;K12525;K12526;K00133;K01714;K00215;K00674;K00821;K14267;K01439;K01778;K01586;K12526,NA,Pathway modules; Amino acid metabolism; Lysine metabolism
+"17",M00017,K00928;K12524;K12525;K00133;K00003;K12524;K12525;K00651;K00641;K01739;K01760;K14155;K00548;K24042;K00549,NA,Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism
+"18",M00018,K00928;K12524;K12525;K12526;K00133;K00003;K12524;K12525;K00872;K02204;K02203;K01733,NA,Pathway modules; Amino acid metabolism; Serine and threonine metabolism
+"19",M00019,K01652;K01653;K11258;K00053;K01687;K00826,NA,Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism
+"20",M00020,K00058;K00831;K01079;K02203;K22305;K25528,NA,Pathway modules; Amino acid metabolism; Serine and threonine metabolism
+"21",M00021,K00640;K23304;K01738;K13034;K17069,NA,Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism
+"22",M00022,K01626;K03856;K13853;K01735;K13830;K13829;K03785;K03786;K13832;K13830;K00014;K13832;K13830;K00891;K13830;K13829;K00800;K24018;K13830;K01736,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"23",M00023,K01657;K01658;K13497;K13503;K13501;K01656;K00766;K13497;K01817;K24017;K13498;K13501;K01609;K13498;K13501;K01656;K01695;K01696;K06001;K01694,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"24",M00024,K01850;K04092;K14187;K04093;K14170;K04516;K06208;K06209;K01713;K04518;K05359;K14170;K00832;K00838,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"25",M00025,K01850;K04092;K14187;K04093;K14170;K04516;K06208;K06209;K04517;K14187;K00211;K00832;K00838,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"26",M00026,K00765;K02502;K01523;K11755;K14152;K01496;K11755;K14152;K01814;K24017;K02500;K02501;K01663;K01693;K00817;K04486;K05602;K18649;K01089;K00013;K14152,NA,Pathway modules; Amino acid metabolism; Histidine metabolism
+"27",M00027,K01580;K13524;K07250;K00823;K16871;K00135;K00139;K17761,NA,Pathway modules; Amino acid metabolism; Other amino acid metabolism
+"28",M00028,K00618;K00619;K14681;K14682;K22477;K00930;K22478;K00145;K12659;K00818;K00821;K01438;K14677;K00620,NA,Pathway modules; Amino acid metabolism; Arginine and proline metabolism
+"29",M00029,K01948;K00611;K01940;K01755;K14681;K01476,NA,Pathway modules; Amino acid metabolism; Arginine and proline metabolism
+"30",M00030,K01655;K17450;K01705;K05824;K00838;K00143;K00293;K24034;K00290,NA,Pathway modules; Amino acid metabolism; Lysine metabolism
+"31",M00031,K05826;K05827;K05828;K05829;K05830;K05831,NA,Pathway modules; Amino acid metabolism; Lysine metabolism
+"32",M00032,K14157;K14085;K00825;K15791;K00658;K00382;K00252;K07514;K07515;K07511;K00022,NA,Pathway modules; Amino acid metabolism; Lysine metabolism
+"33",M00033,K00928;K00133;K00836;K06718;K06720,NA,Pathway modules; Amino acid metabolism; Serine and threonine metabolism
+"34",M00034,K00789;K01611;K00797;K01243;K01244;K00899;K00772;K05810;K08963;K08964;K16054;K09880;K16054;K08965;K08966;K08967;K00815;K08969;K23977;K00832;K00838,NA,Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism
+"35",M00035,K00789;K00552;K00558;K17398;K17399;K01251;K01697;K10150,NA,Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism
+"36",M00036,K00826;K00166;K00167;K11381;K09699;K00382;K00253;K00249;K01968;K01969;K05607;K13766;K01640,NA,Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism
+"37",M00037,K00502;K01593;K00669;K00543,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"38",M00038,K00453;K00463;K01432;K14263;K07130;K00486;K01556;K00452;K03392;K10217;K23234,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"39",M00039,K10775;K13064;K00487;K01904;K13065;K09754;K00588;K09753;K09755;K13066;K00083;K22395,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"40",M00040,K01850;K04092;K14170;K00832;K15849;K00220;K24018;K15227,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"41",M00042,K00505;K00501;K01593;K00503;K00553,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"42",M00043,K00431,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"43",M00044,K00815;K00838;K00832;K03334;K00457;K00451;K01800;K01555;K16171,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"44",M00045,K01745;K01712;K01468;K01479;K00603;K13990;K05603;K01458,NA,Pathway modules; Amino acid metabolism; Histidine metabolism
+"45",M00046,K00207;K17722;K17723;K01464;K01431;K06016,NA,Pathway modules; Nucleotide metabolism; Pyrimidine metabolism
+"46",M00047,K00613;K00542;K00933;K27382,NA,Pathway modules; Amino acid metabolism; Arginine and proline metabolism
+"47",M00048,K00764;K01945;K11787;K11788;K00601;K11175;K08289;K11787;K01492;K01952;K23269;K23264;K23265;K23270;K01933;K11787;K11788;K01587;K11808;K01589;K01588;K01923;K01587;K13713;K01756;K00602;K01492;K06863;K11176,NA,Pathway modules; Nucleotide metabolism; Purine metabolism
+"48",M00049,K01939;K01756;K00939;K18532;K18533;K00944;K00940,NA,Pathway modules; Nucleotide metabolism; Purine metabolism
+"49",M00050,K00088;K01951;K00942;K00940;K18533,NA,Pathway modules; Nucleotide metabolism; Purine metabolism
+"50",M00051,K11540;K11541;K01954;K01955;K01956;K11540;K11541;K00609;K00610;K00608;K11540;K01465;K00226;K00254;K17828;K13421;K00762;K13421;K01591,NA,Pathway modules; Nucleotide metabolism; Pyrimidine metabolism
+"51",M00052,K13800;K13809;K09903;K00940;K18533;K01937,NA,Pathway modules; Nucleotide metabolism; Pyrimidine metabolism
+"52",M00053,K00525;K00526;K10807;K10808;K00940;K18533,NA,Pathway modules; Nucleotide metabolism; Purine metabolism
+"53",M00055,K01001;K07432;K07441;K03842;K03843;K03844;K03845;K03846;K03847;K03846;K00729;K03848;K03849;K03850,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"54",M00056,K00710;K00731;K09653;K00727;K09662;K09663;K00739,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"55",M00057,K00771;K00733;K00734;K10158,NA,Pathway modules; Glycan metabolism; Glycosaminoglycan metabolism
+"56",M00058,K00746;K03419;K13499;K00747,NA,Pathway modules; Glycan metabolism; Glycosaminoglycan metabolism
+"57",M00059,K02369;K02370;K02366;K02367;K02368;K02370;K02576;K02577;K02578;K02579;K01793,NA,Pathway modules; Glycan metabolism; Glycosaminoglycan metabolism
+"58",M00060,K00677;K02535;K02536;K03269;K09949;K00748;K00912;K02527;K02517;K02560,NA,Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism
+"59",M00061,K01812;K00040;K01686;K08323;K00874;K01625;K17463,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"60",M00063,K06041;K01627;K03270;K00979,NA,Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism
+"61",M00064,K03271;K03272;K21344;K03273;K03272;K21345;K03274,NA,Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism
+"62",M00065,K03857;K03859;K03858;K03861;K03860;K11001;K11002;K09658;K03434;K05283;K05284;K07541;K07542;K05285;K05286;K05288;K05287;K05310,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"63",M00066,K00720;K07553;K09905,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"64",M00067,K04628;K01019,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"65",M00068,K01988;K00719,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"66",M00069,K03370;K03371;K03369,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"67",M00070,K03766;K07819;K07820;K03877,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"68",M00071,K03766;K07966;K07967;K07968;K07969,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"69",M00072,K07151;K12666;K12667;K12668;K12669;K12670;K00730;K12691,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"70",M00073,K01228;K05546;K23741;K01230,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"71",M00074,K05546;K23741;K01230;K05528;K05529;K05530;K05529;K05531;K05532;K05533;K05534;K05535,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"72",M00075,K01231;K00736;K00737;K00738;K00744;K09661;K13748;K00717;K07966;K07967;K07968;K00778;K00779,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"73",M00076,K01136;K01217;K01135;K01197;K01195,NA,Pathway modules; Glycan metabolism; Glycosaminoglycan metabolism
+"74",M00077,K01135;K01197;K01195;K01132,NA,Pathway modules; Glycan metabolism; Glycosaminoglycan metabolism
+"75",M00078,K07964;K07965;K01136;K01217;K01565;K10532;K01205;K01195;K01137,NA,Pathway modules; Glycan metabolism; Glycosaminoglycan metabolism
+"76",M00079,K01132;K12309;K01137;K12373,NA,Pathway modules; Glycan metabolism; Glycosaminoglycan metabolism
+"77",M00081,K01051;K01184;K01213,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"78",M00082,K11262;K02160;K01961;K11263;K01962;K01963;K18472;K00665;K00667;K00668;K11533;K00645;K00648;K18473,NA,Pathway modules; Lipid metabolism; Fatty acid metabolism
+"79",M00083,K00665;K00667;K00668;K11533;K00647;K09458;K00059;K02372;K01716;K16363;K00208;K02371;K10780;K00209,NA,Pathway modules; Lipid metabolism; Fatty acid metabolism
+"80",M00085,K07508;K07509;K00022;K07511;K07515;K07512,NA,Pathway modules; Lipid metabolism; Fatty acid metabolism
+"81",M00086,K01897;K15013,NA,Pathway modules; Lipid metabolism; Fatty acid metabolism
+"82",M00087,K00232;K00249;K00255;K06445;K09479;K01692;K07511;K13767;K00022;K07516;K01825;K01782;K07514;K07515;K10527;K00632;K07513;K07508;K07509,NA,Pathway modules; Lipid metabolism; Fatty acid metabolism
+"83",M00088,K00626;K01641;K01640;K00019;K01574,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"84",M00089,K00629;K13506;K13507;K00630;K13508;K00655;K13509;K13523;K19007;K13513;K13517;K13519;K14674;K22831;K01080;K15728;K18693;K11155;K11160;K14456;K22848;K22849;K27538;K27539,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"85",M00090,K00866;K14156;K00968;K00994;K13644,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"86",M00091,K00551;K16369;K00570;K00570;K00550;K00551,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"87",M00092,K00894;K14156;K00967;K00993;K13644,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"88",M00093,K00981;K00998;K17103;K01613,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"89",M00094,K00654;K04708;K04709;K04710;K24621;K24622;K23727;K04712,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"90",M00095,K00626;K01641;K00021;K00869;K00938;K13273;K01597;K01823,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Terpenoid backbone biosynthesis
+"91",M00096,K01662;K00099;K00991;K12506;K00919;K01770;K12506;K03526;K03527;K01823,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Terpenoid backbone biosynthesis
+"92",M00097,K02291;K02293;K15744;K00514;K09835;K06443,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Plant terpenoid biosynthesis
+"93",M00098,K01046;K12298;K16816;K13534;K14073;K14074;K14075;K14076;K22283;K14452;K22284;K14674;K14675;K17900;K01054;K25824,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"94",M00099,K00654;K04708;K04709;K04710;K24621;K24622;K23727;K04712;K01441;K12348;K12349,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"95",M00100,K04718;K01634,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"96",M00101,K00801;K00511;K01852;K05917;K00222;K19532;K07750;K07748;K13373;K09828;K01824;K00227;K00213,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"97",M00102,K00801;K00511;K01852;K05917;K00222;K07750;K07748;K09827;K00559;K09829;K00227;K09831;K00223,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"98",M00103,K07419;K07438,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"99",M00104,K00489;K12408;K07431;K00251;K00037;K00488;K08748;K01796;K10214;K12405;K08764;K11992,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"100",M00106,K08748;K00659,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"101",M00107,K00498;K00070,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"102",M00108,K00513;K00497;K07433,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"103",M00109,K00512;K00513;K00497 cytochrome P450; family 11; subfamily B1/B2 (steroid 11beta-monooxygenase) [EC:1.14.15.4] [RN:R02843];K00071;K15680,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"104",M00110,K00512;K00070;K07434,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"105",M00112,K09833;K12502;K18534;K09834;K05928,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"106",M00113,K00454;K01723;K10525;K05894;K10526;K00232;K10527;K07513,NA,Pathway modules; Lipid metabolism; Lipid metabolism
+"107",M00114,K01809;K17497;K00966;K10046;K14190;K10047;K17744;K00225,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"108",M00115,K00278;K06989;K03517;K00767;K00969;K06210;K01916;K01950,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"109",M00116,K02552;K02551;K08680;K02549;K01911;K01661;K19222;K02548;K03183,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"110",M00117,K03181;K18240;K03179;K03182;K03186;K18800;K00568;K03185;K03183;K03184;K06134,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"111",M00118,K11204;K11205;K01919;K21456;K01920,NA,Pathway modules; Amino acid metabolism; Other amino acid metabolism
+"112",M00119,K00826;K00606;K00077;K01579;K01918;K13799,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"113",M00120,K00867;K03525;K01947;K09680;K01922;K21977;K13038;K01598;K13038;K02318;K00954;K02201 pantetheine-phosphate adenylyltransferase [EC:2.7.7.3] [RN:R03035];K02318;K00859,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"114",M00121,K01885;K02492;K01845;K01698;K01749;K01719;K13542;K13543;K01599;K00228;K02495;K00230;K00231;K08973;K01772,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"115",M00122,K00798;K19221;K02232;K02225;K02227;K02231;K00768;K02226;K22316;K02233,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"116",M00123,K00652;K00833;K19563;K19562;K01935;K01012,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"117",M00124,K03472;K03473;K00831;K00097;K03474;K00275,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"118",M00125,K01497;K14652;K01498;K11752;K00082;K11752;K22912;K20860;K20861;K20862;K21063;K21064;K02858;K14652;K00794;K00793;K20884;K11753;K22949;K11753,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"119",M00126,K01495;K09007;K22391;K01077;K01113;K08310;K19965;K13939;K13940;K01633;K13939;K13940;K00950;K13941;K13939;K00796;K13941;K11754;K20457;K00287;K13998,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"120",M00127,K03148;K03154;K03151;K03150;K03149;K03147;K00941;K00788;K14153;K21219;K00946,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"121",M00128,K06125;K06126;K00591;K06127;K06134,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"122",M00129,K00963;K00012;K00699;K01195;K00002;K01053;K00103,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"123",M00130,K00888;K19801;K13711;K00889;K13712;K01116;K05857;K05858;K05859;K05860;K05861;K00911,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"124",M00131,K01106;K01107;K01109;K01092,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"125",M00132,K00913;K01765;K00915;K10572,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"126",M00133,K01585;K01584;K02626 arginine decarboxylase [EC:4.1.1.19] [RN:R00566];K01480 agmatinase [EC:3.5.3.11] [RN:R01157];K01611 S-adenosylmethionine decarboxylase [EC:4.1.1.50] [RN:R00178];K00797 spermidine synthase [EC:2.5.1.16] [RN:R01920],NA,Pathway modules; Amino acid metabolism; Polyamine biosynthesis
+"127",M00134,K01476;K27545;K01581,NA,Pathway modules; Amino acid metabolism; Polyamine biosynthesis
+"128",M00135,K00657;K00274;K00128;K14085;K00149,NA,Pathway modules; Amino acid metabolism; Polyamine biosynthesis
+"129",M00136,K09470;K09471;K09472;K09473,NA,Pathway modules; Amino acid metabolism; Polyamine biosynthesis
+"130",M00137,K10775;K00487;K01904;K00660;K01859,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"131",M00138,K00475;K13082;K05277,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"132",M00140,K00600;K01491;K00300;K01500;K01938,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"133",M00141,K00600;K00288;K13403;K13402,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"134",M00142,K03878;K03879;K03880;K03881;K03882;K03883;K03884,NA,Pathway modules; Energy metabolism; ATP synthesis
+"135",M00143,K03934;K03935;K03936;K03937;K03938;K03939;K03940;K03941;K03942;K03943;K03944,NA,Pathway modules; Energy metabolism; ATP synthesis
+"136",M00144,K00330;K00331;K00332;K00333;K13378;K13380;K00334;K00335;K00336;K00337;K00338;K00339;K00340;K00341;K00342;K00343,NA,Pathway modules; Energy metabolism; ATP synthesis
+"137",M00145,K05574;K05582;K05581;K05579;K05572;K05580;K05578;K05576;K05577;K05575;K05573;K05583;K05584;K05585,NA,Pathway modules; Energy metabolism; ATP synthesis
+"138",M00146,K03945;K03946;K03947;K03948;K03949;K03950;K03951;K03952;K03953;K03954;K03955;K03956;K11352;K11353,NA,Pathway modules; Energy metabolism; ATP synthesis
+"139",M00147,K03957;K03958;K03959;K03960;K03961;K03962;K03963;K03964;K03965;K03966;K11351;K03967;K03968,NA,Pathway modules; Energy metabolism; ATP synthesis
+"140",M00148,K00236;K00237;K25801;K00234;K00235,NA,Pathway modules; Energy metabolism; ATP synthesis
+"141",M00149,K00241;K00242;K18859;K18860;K00239;K00240,NA,Pathway modules; Energy metabolism; ATP synthesis
+"142",M00150,K00244;K00245;K00246;K00247,NA,Pathway modules; Energy metabolism; ATP synthesis
+"143",M00151,K00410;K00411;K00412;K00413;K03886;K03887;K03888;K03890;K03891;K03889,NA,Pathway modules; Energy metabolism; ATP synthesis
+"144",M00152,K00411;K00412;K00413;K00414;K00415;K00416;K00417;K00418;K00419;K00420,NA,Pathway modules; Energy metabolism; ATP synthesis
+"145",M00153,K00425;K00426;K00424;K22501,NA,Pathway modules; Energy metabolism; ATP synthesis
+"146",M00154,K02257;K02262;K02256;K02261;K02263;K02264;K02265;K02266;K02267;K02268;K02270;K02271;K02272;K02273;K02258;K02259;K02260,NA,Pathway modules; Energy metabolism; ATP synthesis
+"147",M00155,K02275;K02274;K02276;K15408;K02277;K27109,NA,Pathway modules; Energy metabolism; ATP synthesis
+"148",M00156,K00404;K00405;K00407;K00406;K15862,NA,Pathway modules; Energy metabolism; ATP synthesis
+"149",M00157,K02111;K02112;K02113;K02114;K02115;K02108;K02109;K02110,NA,Pathway modules; Energy metabolism; ATP synthesis
+"150",M00158,K02132;K02133;K02136;K02134;K02135;K02137;K02126;K02127;K02128;K02138;K02129;K01549;K02130;K02139;K02140;K02141;K02131;K02142;K02143;K02125,NA,Pathway modules; Energy metabolism; ATP synthesis
+"151",M00159,K02117;K02118;K02119;K02120;K02121;K02122;K02107;K02123;K02124,NA,Pathway modules; Energy metabolism; ATP synthesis
+"152",M00160,K02145;K02147;K02148;K02149;K02150;K02151;K02152;K02144;K02154;K03661;K02155;K02146;K02153;K03662,NA,Pathway modules; Energy metabolism; ATP synthesis
+"153",M00161,K02703;K02706;K02705;K02704;K02707;K02708,NA,Pathway modules; Energy metabolism; Photosynthesis
+"154",M00162,K02635;K02637;K02634;K02636;K02642;K02643;K03689;K02640,NA,Pathway modules; Energy metabolism; ATP synthesis
+"155",M00163,K02689;K02690;K02691;K02692;K02693;K02694,NA,Pathway modules; Energy metabolism; Photosynthesis
+"156",M00165,K00855;K01601;K01602;K00927;K05298;K00150;K00134;K01803;K01623;K01624;K03841;K02446;K11532;K01086;K00615;K01100;K11532;K01086;K01807;K01808;K01783,NA,Pathway modules; Energy metabolism; Carbon fixation
+"157",M00168,K01595;K00025;K00026;K00024,NA,Pathway modules; Energy metabolism; Carbon fixation
+"158",M00169,K00029;K01006,NA,Pathway modules; Energy metabolism; Carbon fixation
+"159",M00170,K01595;K14454;K14455;K01610,NA,Pathway modules; Energy metabolism; Carbon fixation
+"160",M00171,K01595;K14454;K14455;K00025;K00026;K00028;K00814;K14272;K01006,NA,Pathway modules; Energy metabolism; Carbon fixation
+"161",M00172,K01595;K00051;K00029;K01006,NA,Pathway modules; Energy metabolism; Carbon fixation
+"162",M00173,K00169;K00170;K00171;K00172;K03737;K01007;K01006;K01595;K01959;K01960;K01958;K00024;K01676;K01679;K01677;K01678;K00239;K00240;K00241;K00242;K18556;K18557;K18558;K18559;K18560;K01902;K01903;K00174;K00175;K00177;K00176;K00031;K01681;K27802;K01682;K15230;K15231;K15232;K15233;K15234,NA,Pathway modules; Energy metabolism; Carbon fixation
+"163",M00174,K10944;K10945;K10946;K16157;K16158;K16159;K16160;K16161;K16162 methane monooxygenase component D [RN:R01142];K14028;K14029;K23995,NA,Pathway modules; Energy metabolism; Methane metabolism
+"164",M00175,K02588;K02586;K02591;K00531;K22896;K22897;K22898;K22899,NA,Pathway modules; Energy metabolism; Nitrogen metabolism
+"165",M00176,K13811;K00958;K00955;K00957;K00956;K13811;K00860;K00955;K00390;K05907;K00380;K00381;K00392,NA,Pathway modules; Energy metabolism; Sulfur metabolism
+"166",M00307,K00163;K00161;K00162;K00627;K00382;K13997;K00169;K00170;K00171;K00172;K00189;K03737,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"167",M00308,K05308;K00874;K01625;K00134;K00927;K00131;K18978,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"168",M00309,K05308;K11395;K18127;K18020;K18021;K18022;K18128;K03738,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"169",M00338,K01697;K10150;K01758,NA,Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism
+"170",M00344,K17100;K00863;K01624;K03841,NA,Pathway modules; Energy metabolism; Methane metabolism
+"171",M00345,K08093;K13812;K13831;K08094;K13831;K00850;K16370;K21071;K01624,NA,Pathway modules; Energy metabolism; Methane metabolism
+"172",M00346,K00600;K00830;K00018;K11529;K01689;K01595;K00024;K08692;K14067;K08691,NA,Pathway modules; Energy metabolism; Methane metabolism
+"173",M00356,K14080;K04480;K14081;K00399;K00401;K00402;K22480;K22481;K22482;K03388;K03389;K03390;K08264;K08265;K14126;K14128;K14127;K22516;K00125,NA,Pathway modules; Energy metabolism; Methane metabolism
+"174",M00357,K00925;K00625;K01895;K00193;K00197;K00194;K00577;K00578;K00579;K00580;K00581-K00582-K00583;K00584;K00399;K00401;K00402;K22480;K22481;K22482;K03388;K03389;K03390;K08264;K08265;K14126;K14128;K14127;K22516;K00125,NA,Pathway modules; Energy metabolism; Methane metabolism
+"175",M00358,K08097;K05979;K05884;K13039;K06034,NA,Pathway modules; Energy metabolism; Methane metabolism
+"176",M00363,K11006;K11007,NA,Signature modules; Gene set; Pathogenicity
+"177",M00364,K01823;K00795;K13789;K13787,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Terpenoid backbone biosynthesis
+"178",M00365,K01823;K13787,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Terpenoid backbone biosynthesis
+"179",M00366,K01823;K14066;K00787;K13789,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Terpenoid backbone biosynthesis
+"180",M00367,K01823;K00787;K00804,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Terpenoid backbone biosynthesis
+"181",M00368,K00789;K20772;K01762;K05933,NA,Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism
+"182",M00369,K13027;K13029;K13030,NA,Pathway modules; Amino acid metabolism; Other amino acid metabolism
+"183",M00370,K11812;K11813;K11818;K11819;K11820;K11821,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"184",M00371,K09587;K12639;K09588;K09591;K12637;K12638;K20623;K09590;K12640;K25959,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Plant terpenoid biosynthesis
+"185",M00372,K15746;K15747;K09838;K14594;K09840;K09841;K09842,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Plant terpenoid biosynthesis
+"186",M00373,K00626;K00023;K17865;K14446;K14447;K14448;K14449;K08691;K14451;K01965;K01966;K05606;K01847,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"187",M00374,K00169;K00170;K00171;K00172;K01007;K01595;K00024;K01677;K01678;K00239;K00240;K00241;K18860;K01902;K01903;K15038;K15017;K14465;K14467;K18861;K25774;K14534;K15016;K00626,NA,Pathway modules; Energy metabolism; Carbon fixation
+"188",M00375,K01964;K15036;K15037;K15017;K15039;K15018;K15019;K15020;K05606;K01848;K01849;K15038;K15017;K14465;K14466;K18861;K25774;K14534;K15016;K00626,NA,Pathway modules; Energy metabolism; Carbon fixation
+"189",M00376,K01961;K01962;K01963;K02160;K14468;K14469;K15052;K05606;K01847;K01848;K01849;K14471;K14472;K00239;K00240;K00241;K01679;K08691;K14449;K14470;K09709,NA,Pathway modules; Energy metabolism; Carbon fixation
+"190",M00377,K00198;K05299;K15022;K22015;K25123;K25124;K01938;K01491;K01500;K00297;K25007;K25008;K15023;K14138;K00197;K00194,NA,Pathway modules; Energy metabolism; Carbon fixation
+"191",M00378,K11781;K11780;K14941;K11212;K12234,NA,Pathway modules; Energy metabolism; Methane metabolism
+"192",M00415,K10247;K10205;K10248;K10249;K10244;K10203;K10250;K15397;K10245;K10246;K10251;K10703;K10258,NA,Pathway modules; Lipid metabolism; Fatty acid metabolism
+"193",M00416,K02827;K02826;K02828;K02829,NA,Pathway modules; Energy metabolism; ATP synthesis
+"194",M00417,K02297;K02298;K02299;K02300,NA,Pathway modules; Energy metabolism; ATP synthesis
+"195",M00418,K07540;K07543;K07544;K07545;K07546;K07547;K07548;K07549;K07550,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"196",M00419,K10616;K18293;K10617;K10618,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"197",M00422,K00192;K00195;K00193;K00197;K00194,NA,Pathway modules; Energy metabolism; Methane metabolism
+"198",M00432,K01649;K01702;K01703;K01704;K00052,NA,Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism
+"199",M00433,K01655;K17450;K01705;K16792;K16793;K05824,NA,Pathway modules; Amino acid metabolism; Lysine metabolism
+"200",M00525,K00928;K00133;K01714;K00215;K05822;K00841;K05823;K01778;K01586,NA,Pathway modules; Amino acid metabolism; Lysine metabolism
+"201",M00526,K00928;K12524;K12525;K12526;K00133;K01714;K00215;K03340;K01586;K12526,NA,Pathway modules; Amino acid metabolism; Lysine metabolism
+"202",M00527,K00928;K12524;K12525;K12526;K00133;K01714;K00215;K10206;K01778;K01586;K12526,NA,Pathway modules; Amino acid metabolism; Lysine metabolism
+"203",M00528,K10944;K10945;K10946;K10535,NA,Pathway modules; Energy metabolism; Nitrogen metabolism
+"204",M00529,K00370;K00371;K00374;K02567;K02568;K00368;K15864;K04561;K02305;K00376,NA,Pathway modules; Energy metabolism; Nitrogen metabolism
+"205",M00530,K00370;K00371;K00374;K02567;K02568;K00362;K00363;K03385;K15876,NA,Pathway modules; Energy metabolism; Nitrogen metabolism
+"206",M00531,K00367;K10534;K00372;K00360;K00366;K17877;K26139;K26138;K00361,NA,Pathway modules; Energy metabolism; Nitrogen metabolism
+"207",M00532,K01601;K01602;K19269;K11517;K03781;K14272;K00600;K00830;K15893;K15919;K15918;K00281;K00605;K00382;K02437,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"208",M00533,K00455;K00151;K01826;K05921,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"209",M00534,K14579;K14580;K14578;K14581;K14582;K14583;K14584;K14585;K00152,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"210",M00535,K09011;K01703;K01704;K00052,NA,Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism
+"211",M00537,K15757;K15758;K00055;K00141,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"212",M00538,K15760;K15761;K15762;K15763;K15764;K15765;K00055;K00141,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"213",M00539,K10619;K16303;K16304;K18227;K10620;K10621;K10622;K10623,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"214",M00540,K04116;K04117;K07534;K07535;K07536,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"215",M00541,K04112;K04113;K04114;K04115;K19515;K19516;K07537;K07538;K07539,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"216",M00542,K03221;K03219;K03222;K03226;K03227;K03228;K03229;K03230;K03224;K03225;K12784;K12787;K12785;K12786;K12788;K16041;K16042,NA,Signature modules; Gene set; Pathogenicity
+"217",M00543,K08689;K15750;K18087;K18088;K08690;K00462;K10222,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"218",M00544,K15751;K15752;K15753;K15754;K15755;K15756,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"219",M00545,K05708;K05709;K05710;K00529;K05711;K05712;K05713;K05714;K02554;K01666;K04073,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"220",M00546,K00106;K00087;K13479;K13480;K13481;K13482;K11177;K11178;K13483;K00365;K16838;K16839;K22879;K07127;K13485;K16838;K16840;K13484;K01466;K16842;K01477,NA,Pathway modules; Nucleotide metabolism; Purine metabolism
+"221",M00547,K03268;K16268;K18089;K18090;K16269,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"222",M00548,K16249;K16243;K16244;K16242;K16245;K16246,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"223",M00549,K00844;K00845;K25026;K12407;K00886;K01835;K15779;K15778;K00963;K12447,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"224",M00550,K02821;K02822;K03475;K03476;K03078;K03079;K03077,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"225",M00551,K05549;K05550;K05784;K05783,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"226",M00552,K01684;K00883;K01631;K00134;K00927,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"227",M00554,K00849;K00965,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"228",M00555,K00108;K11440;K00499;K17755;K00130;K14085,NA,Pathway modules; Amino acid metabolism; Serine and threonine metabolism
+"229",M00563,K14082;K16176;K16177;K16178;K16179;K14083;K14084;K00399;K00401;K00402;K22480;K22481;K22482;K03388;K03389;K03390;K08264;K08265;K14126;K14128;K14127;K22516;K00125,NA,Pathway modules; Energy metabolism; Methane metabolism
+"230",M00564,K15842;K12086;K12087;K12088;K12089;K12090;K03196;K12091;K12092;K12093;K12094;K12095;K12096;K12097;K12098;K12099;K12100;K12101;K12102;K12103;K12104;K12105;K12106;K12107;K12108;K12109;K12110,NA,Signature modules; Gene set; Pathogenicity
+"231",M00565,K00975;K00703;K00700;K16149;K01214;K06044;K01236,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"232",M00567,K00200;K00201;K00202;K00203;K11261 formylmethanofuran dehydrogenase [EC:1.2.99.5] [RN:R03015];K00205;K11260;K00204;K00672;K01499;K00319;K13942;K00320;K00577;K00578;K00579;K00580;K00581;K00582;K00583;K00584;K00399;K00401;K00402;K22480;K22481;K22482;K03388;K03389;K03390;K08264;K08265;K14126;K14128;K14127;K22516;K00125,NA,Pathway modules; Energy metabolism; Methane metabolism
+"233",M00568,K03381;K01856;K03464;K01055;K14727,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"234",M00569,K00446;K07104;K10217;K01821;K01617;K10216;K18364;K02554;K18365;K01666;K18366;K04073,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"235",M00570,K17989;K01754;K01652;K01653;K11258;K00053;K01687;K00826,NA,Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism
+"236",M00572,K02169 malonyl-CoA O-methyltransferase [EC:2.1.1.197] [RN:R09543];K00647;K09458;K00059;K02372;K00208;K02170;K09789;K19560;K19561 pimelyl-[acyl-carrier protein] methyl ester esterase [EC:3.1.1.85] [RN:R09725],NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"237",M00573,K16593;K00652;K19563;K01935;K01012,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"238",M00574,K11023;K11024;K11025;K11026;K11027,NA,Signature modules; Gene set; Pathogenicity
+"239",M00575,K22944;K11004;K07389;K11003;K12340,NA,Signature modules; Gene set; Pathogenicity
+"240",M00576,K10928;K10929;K16883;K16884,NA,Signature modules; Gene set; Pathogenicity
+"241",M00577,K01906;K00652;K00833;K19563;K01935;K01012,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"242",M00579,K00625;K13788;K15024;K00925,NA,Pathway modules; Energy metabolism; Carbon fixation
+"243",M00580,K08094;K13831;K08093;K13812;K13831;K01807,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"244",M00595,K17222;K17223;K17224;K17225;K22622;K17226;K17227,NA,Pathway modules; Energy metabolism; Sulfur metabolism
+"245",M00596,K00958;K00394;K00395;K11180;K11181;K27196;K27187;K27188;K27189;K27190;K27191,NA,Pathway modules; Energy metabolism; Sulfur metabolism
+"246",M00597,K08928;K08929,NA,Pathway modules; Energy metabolism; Photosynthesis
+"247",M00598,K08940;K08941;K08942;K08943,NA,Pathway modules; Energy metabolism; Photosynthesis
+"248",M00608,K10977;K16792;K16793;K10978,NA,Pathway modules; Energy metabolism; Methane metabolism
+"249",M00609,K00789;K17462;K01243;K07173;K17216;K17217,NA,Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism
+"250",M00611,NA,M00161;M00163;M00165,Signature modules; Module set; Metabolic capacity
+"251",M00612,NA,M00597;M00165,Signature modules; Module set; Metabolic capacity
+"252",M00613,NA,M00597;M00376,Signature modules; Module set; Metabolic capacity
+"253",M00614,NA,M00598;M00173,Signature modules; Module set; Metabolic capacity
+"254",M00615,K02575;K15576;K15577;K15578;K15579;(M00531;K00367;K10534;K00372;K00360;K00366,NA,Signature modules; Module set; Metabolic capacity
+"255",M00616,K02048;K02046;K02047;K02045;(M00176;K13811;K00958;K00955;K00957;K00956;K13811;K00860;K00955;K00390;K00380;K00381;K00392,NA,Signature modules; Module set; Metabolic capacity
+"256",M00617,NA,M00567;M00357;M00356;M00563,Signature modules; Module set; Metabolic capacity
+"257",M00618,NA,M00377;M00579,Signature modules; Module set; Metabolic capacity
+"258",M00620,K00169;K00170;K00171;K00172;K01959;K01960;K00024;K01677;K01678;K18209;K18210;K01902;K01903;K00174;K00175;K00176;K00177,NA,Pathway modules; Energy metabolism; Carbon fixation
+"259",M00621,K00281;K00282;K00283;K00605;K00382,NA,Pathway modules; Amino acid metabolism; Serine and threonine metabolism
+"260",M00622,K18029;K18030;K14974;K18028;K15357;K13995;K01799,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"261",M00623,K18068;K18069;K18067;K04102,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"262",M00624,K18074;K18075;K18077;K18076,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"263",M00625,K02547;K02546;K02545,NA,Signature modules; Gene set; Drug resistance
+"264",M00627,K02172;K02171;K18766;K17836,NA,Signature modules; Gene set; Drug resistance
+"265",M00630,K18106;K19634;K18102;K18103;K18107,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"266",M00631,K01812;K00041;K01685;K16849;K16850;K00874;K01625;K17463,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"267",M00632,K01785;K00849;K00965;K01784,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"268",M00633,K05308;K18126;K11395;K18978,NA,Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism
+"269",M00636,K18251;K18252;K18253;K18254;K18255;K18256,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"270",M00637,K05599;K05600;K11311;K16319;K16320;K18248;K18249,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"271",M00638,K18242;K18243;K14578;K14581,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"272",M00639,K18294;K18295;K18296;K08721,NA,Signature modules; Gene set; Drug resistance
+"273",M00641,K18297;K18298;K18299;K18300,NA,Signature modules; Gene set; Drug resistance
+"274",M00642,K18301;K18302;K18303;K18139,NA,Signature modules; Gene set; Drug resistance
+"275",M00643,K18129;K18094;K18095;K18139,NA,Signature modules; Gene set; Drug resistance
+"276",M00649,K18143;K18144;K18145;K18146;K18147,NA,Signature modules; Gene set; Drug resistance
+"277",M00651,K18345;K18344;K07260;K18346;K18351;K18352;K18354;K18353;K18347;K15739;K08641,NA,Signature modules; Gene set; Drug resistance
+"278",M00652,K18350;K18349;K18348;K18856;K18866,NA,Signature modules; Gene set; Drug resistance
+"279",M00660,K03222;K03226;K03227;K03228;K03229;K03230;K03224;K03225;K03223;K18374;K18376;K18373;K18375;K18377;K18378;K18379;K18380;K18381,NA,Signature modules; Gene set; Plant pathogenicity
+"280",M00661,K18385;K18386;K18387,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other fungal compounds
+"281",M00664,K14658;K14659;K14666;K14657,NA,Signature modules; Gene set; Symbiosis
+"282",M00672,K12743;K04126;K10852,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of beta-lactams
+"283",M00673,K12743;K04126;K04127;K12744;K12745;K04128;K18062;K18063,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of beta-lactams
+"284",M00674,K12673;K12674;K12675;K12676,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of beta-lactams
+"285",M00675,K18317;K18316;K18315,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of beta-lactams
+"286",M00696,K18140;K18141;K18142;K12340,NA,Signature modules; Gene set; Drug resistance
+"287",M00697,K07690;K18898;K18899;K12340,NA,Signature modules; Gene set; Drug resistance
+"288",M00698,K18900;K18901;K18902;K18903,NA,Signature modules; Gene set; Drug resistance
+"289",M00700,K18906;K18907;K18104,NA,Signature modules; Gene set; Drug resistance
+"290",M00702,K18906;K18907;K08170,NA,Signature modules; Gene set; Drug resistance
+"291",M00704,K18906;K08168,NA,Signature modules; Gene set; Drug resistance
+"292",M00705,K18909;K18908,NA,Signature modules; Gene set; Drug resistance
+"293",M00714,K18938;K08167,NA,Signature modules; Gene set; Drug resistance
+"294",M00718,K18131;K03585;K18138;K18139,NA,Signature modules; Gene set; Drug resistance
+"295",M00725,K19077;K19078;K03367;K03739;K14188;K03740,NA,Signature modules; Gene set; Drug resistance
+"296",M00726,K19077;K19078;K14205,NA,Signature modules; Gene set; Drug resistance
+"297",M00730,K19077;K19078;K19079;K19080,NA,Signature modules; Gene set; Drug resistance
+"298",M00736,K19102;K19103;K05375;K19104;K19105;K19106,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of beta-lactams
+"299",M00740,K01647;K01659;K27802;K00031;K00261;K19268;K01846;K04835;K19280;K14449;K19281;K19282;K00024,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"300",M00741,K01965;K01966;K11263;K18472;K27094;K27095;K19312;K22568;K01964;K15036;K15037;K05606;K01847;K01848;K01849,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"301",M00744,K07637;K07660;K08477,NA,Signature modules; Gene set; Drug resistance
+"302",M00745,K18072;K18073;K07644;K07665;K18297;K18093,NA,Signature modules; Gene set; Drug resistance
+"303",M00746,K13632;K18513;K09476,NA,Signature modules; Gene set; Drug resistance
+"304",M00761,K10011;K07806;K10012;K13014,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"305",M00763,K05826;K19412;K05828;K05829;K05830;K05831,NA,Pathway modules; Amino acid metabolism; Arginine and proline metabolism
+"306",M00769,K18304;K19591;K19595;K19594;K19593,NA,Signature modules; Gene set; Drug resistance
+"307",M00773,K15988;K24555;K24556;K24557;K24558;K15989;K15990;K15992;K15991;K15993;K15994;K15995;K15996,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Macrolide biosynthesis
+"308",M00774,K10817;K24563;K24564;K14366;K14367;K14368;K15997;K14370;K14369,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Macrolide biosynthesis
+"309",M00775,K16007;K24565;K24566;K16008;K16009;K13320;K16010,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Macrolide biosynthesis
+"310",M00776,K16000;K16001;K16002;K16003;K16004;K16005;K16006,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Macrolide biosynthesis
+"311",M00777,K14371;K24567;K24568;K24569;K14372;K14373;K14374;K14375,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Macrolide biosynthesis
+"312",M00778,K05551;K05552;K05553;K12420;K05554;K14249;K15884;K15885;K05555;K14250;K15886,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Type II polyketide biosynthesis
+"313",M00779,K05556;K14626;K14627;K14628;K14629;K14630;K14631;K14632,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Type II polyketide biosynthesis
+"314",M00780,K14251;K14252;K14253;K14254;K14255;K14256;K21301,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Type II polyketide biosynthesis
+"315",M00781,K15941;K15942;K15943;K15944,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Type II polyketide biosynthesis
+"316",M00782,K15959;K15960;K15961;K15963;K15964;K15965;K15966;K15967,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Type II polyketide biosynthesis
+"317",M00783,K15968;K15969;K15886;K15970;K15971;K15972,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Type II polyketide biosynthesis
+"318",M00784,K19566;K19567;K19568;K19569;K19570,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Type II polyketide biosynthesis
+"319",M00785,K19741;K19723;K19726;K19725;K19724;K19727,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"320",M00786,K18281;K14132;K17475;K18280;K17827;K17826;K14134;K17825;K18279,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other fungal compounds
+"321",M00787,K19546;K19547;K19550;K19549;K19548;K13037,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"322",M00788,K19835;K19834,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"323",M00789,K14266;K19884;K19885;K19886;K19887;K19888;K19889,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"324",M00790,K14266;K19981;K14257;K19982,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"325",M00793,K00973;K01710;K01790;K00067;K23987,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+"326",M00794,K13312;K13313,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+"327",M00795,K19855;K12710;K17625,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+"328",M00796,K19853;K19854;K13307,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+"329",M00797,K13308;K13309;K13310;K13311;K16436;K13326,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+"330",M00798,K16435;K13315;K13317;K13316;K16438;K13318,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+"331",M00799,K16435;K13315;K16438;K19856;K19857,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+"332",M00800,K16435;K16436;K13326;K16438;K13322,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+"333",M00801,K16435;K13327;K19858;K13319,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+"334",M00802,K16435;K13327;K13328;K13329;K13330,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+"335",M00803,K16435;K19859;K16436;K13332,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+"336",M00804,K10944;K10945;K10946;K10535;K00370;K00371,NA,Pathway modules; Energy metabolism; Nitrogen metabolism
+"337",M00805,K20075;K20076;K20077;K20078;K20079;K20080;K20081;K20082,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"338",M00808,K20086;K20087;K20088;K20089;K20090,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"339",M00810,K19818;K19819;K19820;K19826;K19890;K19185;K19186;K19187;K19188;K20155,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"340",M00811,K20169;K20170;K20158;K19700;K20171;K20172;K15359;K18276,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"341",M00814,K19969;K19979;K19974;K20424;K20425;K20426;K20427;K20430,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"342",M00815,K19969;K20431;K20432;K20433;K20434;K20435;K20436;K20437;K20438,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"343",M00819,K12250;K15907;K18056;K17747;K18091;K18057;K17476,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"344",M00823,K14251;K14252;K14253;K14254;K14255;K14256;K21301;K14257;K21297,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Type II polyketide biosynthesis
+"345",M00824,K15314;K21160;K21161;K21162;K21163;K21164;K21165;K21166;K21167,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Enediyne biosynthesis
+"346",M00825,K15314;K21168;K21169;K21170;K21171;K21172;K21173;K21174,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Enediyne biosynthesis
+"347",M00826,K20159;K21175;K20156;K21176;K21177;K21178;K21179,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Enediyne biosynthesis
+"348",M00827,K21183;K21181;K21182;K16431;K21184;K21185,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Enediyne biosynthesis
+"349",M00828,K21183;K21181;K21182;K21188,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Enediyne biosynthesis
+"350",M00829,K15320;K21191;K21192,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Enediyne biosynthesis
+"351",M00830,K20422;K20420;K20421;K20423,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Enediyne biosynthesis
+"352",M00831,K21221;K21222;K21223;K21224;K21225,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Enediyne biosynthesis
+"353",M00832,K21183;K21227;K21228;K16431;K21185,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Enediyne biosynthesis
+"354",M00833,K21254;K21255;K21256;K21257;K21258;K21259;K21260;K21261;K21262;K21263,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Enediyne biosynthesis
+"355",M00834,K21254;K21255;K21256;K21257;K21258,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Enediyne biosynthesis
+"356",M00835,K13063;K20261;K06998;K20260;K20262;K21103;K20940,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"357",M00836,K22011;K22012;K21610;K21611;K21612,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"358",M00837,K21780;K21781;K21782;K21783;K21784;K21785;K21786;K21428;K21778;K21779;K21787,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"359",M00838,K21780;K21781;K21782;K21783;K21784;K21785;K27675;K21791;K21792;K21793;K21787,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"360",M00840,K14652;K22100;K01633;K13941;K22099;K00287,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"361",M00841,K01495;K22101;K13941;K11754;K13998,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"362",M00842,K01495;K01737;K00072,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"363",M00843,K01495;K01737;K17745,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"364",M00844,K00611;K01940;K01755;K14681,NA,Pathway modules; Amino acid metabolism; Arginine and proline metabolism
+"365",M00845,K22478;K00145;K00821;K09065;K01438;K01940;K01755,NA,Pathway modules; Amino acid metabolism; Arginine and proline metabolism
+"366",M00846,K02492;K01845;K01698;K01749;K01719;K13542;K13543;K02302;K00589;K02303;K02496;K13542;K13543;K02302;K02304;K24866;K02302;K02304;K03794,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"367",M00847,K22225;K22226;K22227;K25033,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"368",M00848,K09460;K02078;K14245;K14246;K22798;K22799;K22800;K21272;K21271;K22801;K22802,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"369",M00849,K00626;K01641;K00021;K00054;K00869;K17942;K25517;K09128;K25518;K03186;K18689;K18690;K22813;K06981;K01823,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Terpenoid backbone biosynthesis
+"370",M00850,K10928;K10929;K10954;K10952;K10953;K10948;K11018,NA,Signature modules; Gene set; Pathogenicity
+"371",M00851,K18768;K18970;K19316;K22346;K18794;K19318;K18971;K18793;K19319;K19320;K19321;K19322;K18972;K19211;K18976;K21277;K18782;K18781;K18780;K19099;K19216,NA,Signature modules; Gene set; Drug resistance
+"372",M00852,K10961;K10920;K10919;K10930;K10931;K10962;K10932;K10963;K10933;K10964;K10965;K10934;K10935;K10966,NA,Signature modules; Gene set; Pathogenicity
+"373",M00853,K22850;K22851;K22852;K22853;K22854,NA,Signature modules; Gene set; Pathogenicity
+"374",M00854,K00963;K00693;K00750;K16150;K16153;K13679;K20812;K00975;K00703;K13679;K20812;K00700;K16149,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"375",M00855,K00688;K16153;K01196;K00705;K22451;K02438;K01200;K15779;K01835;K15778,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"376",M00856,K11014;K11023;K19298;K22918,NA,Signature modules; Gene set; Pathogenicity
+"377",M00857,K22914;K22926;K22925;K22915;K22916;K22917;K22924;K22921;K22923;K22922,NA,Signature modules; Gene set; Pathogenicity
+"378",M00859,K11030;K08645;K11029,NA,Signature modules; Gene set; Pathogenicity
+"379",M00860,K22976;K22977;K22980;K07282;K22116;K01932;K22981,NA,Signature modules; Gene set; Pathogenicity
+"380",M00861,K00232;K12405;K07513;K08764,NA,Pathway modules; Lipid metabolism; Fatty acid metabolism
+"381",M00862,K10214;K12405;K08764,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"382",M00866,K00677;K02535;K16363;K02536;K03269;K09949;K00748;K00912;K02527;K02517;K09778,NA,Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism
+"383",M00867,K12977;K03760;K23082;K23083;K23159;K09953,NA,Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism
+"384",M00868,K00643;K01698;K01749;K01719;K01599;K00228;K00231;K01772,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"385",M00872,K00728;K18207;K09654;K17547;K21031;K19872;K19873;K21052;K21032;K09668,NA,Pathway modules; Glycan metabolism; Glycan biosynthesis
+"386",M00873,K18660;K03955;K00645;K09458;K11539;K13370;K22540;K07512,NA,Pathway modules; Lipid metabolism; Fatty acid metabolism
+"387",M00874,K11262;K03955;K00645;K09458;K00059;K22541;K07512,NA,Pathway modules; Lipid metabolism; Fatty acid metabolism
+"388",M00875,K23371;K21949;K21721;K23372;K23373;K23374;K23375,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"389",M00876,K21898;K23446;K23447,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"390",M00877,K18652;K18653;K18654,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"391",M00878,K01912;K02609;K02610;K02611;K02612;K02613;K15866;K02618;K02615;K01692;K00074,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"392",M00879,K00673;K01484;K00840;K06447;K05526,NA,Pathway modules; Amino acid metabolism; Arginine and proline metabolism
+"393",M00880,K03639;K03637;K20967;K03635;K21142;K03831;K03638;K03750;K15376,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"394",M00881,K03801;K03644,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"395",M00882,K23735;K03644,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"396",M00883,K23735;K23734;K03644;K10105;K16869,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"397",M00884,K23750;K03644,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"398",M00889,K12628;K12629;K12630;K12631;K12632;K12633;K12634;K12635;K12636,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"399",M00890,K22598;K22269,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"400",M00891,K23646;K23647;K21477,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other fungal compounds
+"401",M00892,K00844;K12407;K00845;K01810;K00820;K00621;K01836;K00972,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"402",M00893,K20981;K20982;K20985;K20980;K20984;K20983,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other fungal compounds
+"403",M00894,K20503;K20508;K27602;K20502;K20501,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"404",M00895,K03148;K03154;K03151;K03153;K03149;K10810;K03147;K00941;K00788;K00946,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"405",M00896,K22699;K03147;K00941;K00788;K21220;K21219;K00946,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"406",M00897,K03146;K03147;K14153;K22911;K00949,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"407",M00898,K03146;K18278;K00877;K14154;K00949,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"408",M00899,K00878;K00941;K00788;K14153;K21219,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"409",M00900,K21371;K21354,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"410",M00901,K23665;K23666;K23667;K23668,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other fungal compounds
+"411",M00902,K21568;K19650;K21207;K21203;K21205;K21204;K21202,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"412",M00903,K23999;K09459;K12901;K12902;K24000;K12903,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"413",M00904,K22113;K01957;K22114,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"414",M00905,K18287;K17835;K20204,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"415",M00906,K23669;K23670;K23671;K23672;K23673,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"416",M00909,K00845;K25026;K01810;K13810;K15916;K00820;K03431;K04042,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"417",M00910,K01850;K15849;K05359,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"418",M00911,K01497;K14654;K14655;K02858;K00794;K00793;K00861;K00953,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"419",M00912,K00453;K00463;K01432;K14263;K07130;K00486;K01556;K00452;K00767;K00969;K06210;K01916;K01950,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"420",M00913,K00606;K00077;K13367;K00128;K01918,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"421",M00914,K00606;K00077;K06982;K09722;K13038;K02201;K09735,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"422",M00915,K21722;K21723;K21724,NA,Pathway modules; Xenobiotics biodegradation; Aromatics degradation
+"423",M00916,K06215;K08681,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"424",M00917,K01853;K00559;K14423;K23558;K08246;K05917;K00222;K01824;K08242;K14424;K00227;K00213;K09828,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"425",M00918,K03897;K03896;K03894;K03895,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"426",M00919,K15783;K15784;K15785;K15786,NA,Pathway modules; Amino acid metabolism; Serine and threonine metabolism
+"427",M00921,K13787;K18686;K22997;K22998,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds
+"428",M00922,K24257;K01654;K00983,NA,Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism
+"429",M00923,K15894;K19068;K24258;K24259,NA,Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism
+"430",M00924,K02302;K02303;K13542;K02304;K24866;K02190;K03795;K22011;K03394;K05934;K13541;K21479;K05936;K02189;K13541;K02188;K05895;K02191;K03399;K00595;K06042;K02224,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"431",M00925,K02303;K13542;K03394;K13540;K02229;K05934;K13541;K05936;K02228;K05895;K00595;K06042;K02224;K02230;K09882;K09883,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"432",M00926,K02492;K01845;K01698;K01749;K01719;K13542;K01599;K00231;K01772;K00435,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"433",M00927,K04120;K04121;K04122;K04123,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Plant terpenoid biosynthesis
+"434",M00928,K05282;K04124,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Plant terpenoid biosynthesis
+"435",M00929,K20657;K21292;K12917;K12918;K12919,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Plant terpenoid biosynthesis
+"436",M00930,K11782;K18285;K18286;K20810;K11783;K11784;K11785,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"437",M00931,K11782;K18285;K18284;K11784;K11785,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"438",M00932,K02552;K02551;K08680;K02549;K14759;K01911;K14760;K01661;K19222;K12073;K23094;K17872;K23095,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"439",M00933,K12501;K12502,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"440",M00934,K24528;K24559;K24560;K24561;K24562;K24529;K24292;K24530;K24531;K21540;K21539;K24390,NA,Pathway modules; Biosynthesis of terpenoids and polyketides; Macrolide biosynthesis
+"441",M00935,K09733;K19793;K07144;K18933;K06914;K07072,NA,Pathway modules; Energy metabolism; Methane metabolism
+"442",M00936,K01593;K24541;K22450;K22588;K13066,NA,Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism
+"443",M00937,K15316;K17643;K17644;K17645;K17652;K17646;K24440;K24855;K17648;K24439;K24856;K24438;K24857;K24858;K17649;K17650;K17651,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other fungal compounds
+"444",M00938,K00525;K00526;K10807;K10808;K00940;K18533;K01520;K00560;K13998;K03465;K00943,NA,Pathway modules; Nucleotide metabolism; Pyrimidine metabolism
+"445",M00939,K09018;K09024;K09020;K09021;K09023;K09019;K16066,NA,Pathway modules; Nucleotide metabolism; Pyrimidine metabolism
+"446",M00940,K00660;K08243;K01859,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"447",M00941,K13257;K13258,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"448",M00942,K13259;K13260;K05281;K13265;K25075,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"449",M00943,K13382;K13383;K13384;K13385;K13386,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"450",M00944,K22093;K13391;K13392;K13393;K01742;K14975;K14976;K13394,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"451",M00945,K00307;K21070;K13395;K13396;K21692;K21693;K22089,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"452",M00946,K00307;K13397;K13395;K13396;K20621;K22094;K22095;K22096;K23157;K23158;K22097;K22098,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"453",M00947,K19746;K19744,NA,Pathway modules; Amino acid metabolism; Other amino acid metabolism
+"454",M00948,K12658;K21060;K22549;K21061;K22550;K21062;K13877,NA,Pathway modules; Amino acid metabolism; Other amino acid metabolism
+"455",M00949,K01780;K23120;K23122,NA,Pathway modules; Amino acid metabolism; Other amino acid metabolism
+"456",M00950,K00652;K25570;K01935;K01012,NA,Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism
+"457",M00951,K25562;K25597;K25563;K25594;K25598,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"458",M00952,K13222;K13223;K13224;K13225;K13226;K13227;K13229;K13230,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"459",M00953,K00789;K05953;K14271;K22374;K18054,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"460",M00956,K01582;K09251;K00137;K07250;K00135;K15737;K15736,NA,Pathway modules; Amino acid metabolism; Lysine metabolism
+"461",M00957,K00468;K01506;K14268;K07250;K00135;K15737;K15736;K01041;K00252;K01692;K01825;K01782;K01825;K01782;K00626,NA,Pathway modules; Amino acid metabolism; Lysine metabolism
+"462",M00958,K01490;K01081;K19970;K03787;K18550;K11751;K02566;K08693;K01488;K19572;K05810;K03783;K03784;K09913;K05810;K00106;K00087;K13479;K13480;K13481;K13482;K11177;K11178;K13483,NA,Pathway modules; Nucleotide metabolism; Purine metabolism
+"463",M00959,K01081;K19970;K11751;K03787;K02566;K08693;K20881;K03783;K03784;K09913;K05810;K01487;K00106;K00087;K13479;K13480;K13481;K13482;K11177;K11178;K13483,NA,Pathway modules; Nucleotide metabolism; Purine metabolism
+"464",M00960,K25316;K25317;K26064;K13609;K26065;K26061;K26062;K25986;K26063;K15737,NA,Pathway modules; Amino acid metabolism; Lysine metabolism
+"465",M00961,K26037;K15777;K15776;K15774;K26038,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"466",M00962,K22433;K22434;K22435;K22436,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"467",M00963,K14130;K18884;K17746,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"468",M00964,K19182;K19183;K19184;K14135,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"469",M00965,K12696;K21895;K22365;K22323;K21896;K12697;K12698,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"470",M00966,K26069;K26175;K26070;K26071,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"471",M00967,K26176;K26178;K22906,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"472",M00968,K00757;K26211;K26212;K21056;K26208;K18931;K18237;K01601;K26210;K01636,NA,Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism
+"473",M00969,K22569;K21295;K22570;K22571;K22572;K22573;K22574;K22575,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other antibiotics
+"474",M00970,K00318;K00294;K13821,NA,Pathway modules; Amino acid metabolism; Arginine and proline metabolism
+"475",M00971,K15813;K20667;K26481;K26482;K26483;K26484;K26485;K26487;K26488;K26489;K26490;K26491;K26493;K26494;K26495,NA,Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of phytochemical compounds
+"476",M00972,K00819;K00286;K00318,NA,Pathway modules; Amino acid metabolism; Arginine and proline metabolism
+"477",M00973,K00368;K15864;K20932;K20933;K20934;K20935,NA,Pathway modules; Energy metabolism; Nitrogen metabolism
+"478",M00974,K00544;K00315;K00306;K00314,NA,Pathway modules; Amino acid metabolism; Serine and threonine metabolism
+"479",M00975,K00479;K21832;K00309;K00315;K00301;K00302;K00303;K00304;K00305;K21833;K21834;K25960;K25961;K00600;K01752;K01754,NA,Pathway modules; Amino acid metabolism; Serine and threonine metabolism
+"480",M00976,K00512;K00070;K04119;K10207;K13368;K13369;K13370;K12343;K12344;K12345,NA,Pathway modules; Lipid metabolism; Sterol biosynthesis
+"481",M00978,K01915;K01955;K01956;K00611;K01940;K01755;K27542;K27545,NA,Pathway modules; Amino acid metabolism; Arginine and proline metabolism
